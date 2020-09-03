@@ -5,7 +5,7 @@ This repository contains my projects for CS111 Operating Systems Principles take
 
 ### Language covered: C
 
-### Projects
+## Projects
 [Project0](https://github.com/Luke-ZL/CS111_Operating_Systems_Principles/tree/master/Project0) contains a warmup project for this course. A description for the project can be found [here](http://web.cs.ucla.edu/classes/winter19/cs111/labs/project0.html).
 
 [Project1](https://github.com/Luke-ZL/CS111_Operating_Systems_Principles/tree/master/Project1) contains an implementation for a simpleton shell. A description for the project can be found [here](http://web.cs.ucla.edu/classes/winter19/cs111/assign/lab1.html).
